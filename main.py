@@ -3,6 +3,10 @@
 
 Writes one original funny line to /output/entry.txt. The text is fixed, so
 the program is fully deterministic: every run writes exactly the same bytes.
+
+The line is a light, funny take on everyday life: the printer, that most
+patient of household saboteurs, only ever jams when the calendar is full.
+The twist lands on the last word, and nothing in the line needs explaining.
 """
 
 import os
